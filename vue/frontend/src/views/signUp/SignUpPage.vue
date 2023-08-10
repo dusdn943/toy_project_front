@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="text-center">
         회원가입
         <SignUpForm @submit="onSubmit" />
     </div>
